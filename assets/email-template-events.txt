@@ -1,0 +1,54 @@
+O2 EMPIRE — SHEPHERD'S BUSH
+What's On
+
+Hey %%FIRST_NAME%%, here's what's coming up.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+FEATURED SHOW
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+James Acaster
+Sat 14 Jun 2025 · Doors 7:00 PM
+Comedy · From £27.50
+
+A brand-new show, full of everything you love about James Acaster.
+
+Tickets: %%EVENT_1_TICKET_URL%%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+MORE COMING UP
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+%%EVENT_2_NAME%%
+%%EVENT_2_DATE%% · %%EVENT_2_PRICE%%
+%%EVENT_2_DESCRIPTION%%
+Tickets: %%EVENT_2_TICKET_URL%%
+
+──────────────────────────
+
+%%EVENT_3_NAME%%
+%%EVENT_3_DATE%% · %%EVENT_3_PRICE%%
+%%EVENT_3_DESCRIPTION%%
+Tickets: %%EVENT_3_TICKET_URL%%
+
+──────────────────────────
+
+%%EVENT_4_NAME%%
+%%EVENT_4_DATE%%
+%%EVENT_4_DESCRIPTION%%
+Tickets: %%EVENT_4_TICKET_URL%%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+LAST CHANCE — %%LAST_CHANCE_EVENT%%
+Only a few tickets left!
+Buy Now: %%LAST_CHANCE_URL%%
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+See all upcoming events: %%ALL_EVENTS_URL%%
+
+──────────────────────────
+O2 Shepherd's Bush Empire
+Shepherd's Bush Green, London W12 8TT
+
+To unsubscribe: %%UNSUBSCRIBE_URL%%
+Manage preferences: %%PREFERENCES_URL%%
